@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "531b",
+      "name": "Artur",
+      "surname": "Karapetyan",
+      "salary": "1500000"
+    },
+    {
+      "id": "c403",
+      "name": "Nazeli",
+      "surname": "Verdyan",
+      "salary": "750000"
+    },
+    {
+      "id": "39fc",
+      "name": "Lucy",
+      "surname": "Karapetyan",
+      "salary": "8000000"
+    },
+    {
+      "id": "7c46",
+      "name": "Arevik",
+      "surname": "Karapetyan",
+      "salary": "8000000"
+    },
+    {
+      "id": "e0b9",
+      "name": "Armine",
+      "surname": "Minasyan",
+      "salary": "150000"
+    },
+    {
+      "id": "070c",
+      "name": "Artak",
+      "surname": "Verdyan",
+      "salary": 60000
+    }
+  ]
+}
